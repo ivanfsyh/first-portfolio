@@ -4,4 +4,4 @@ deployment:
     - export DEPLOYPATH=/home/dowebmyi/public_html/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp style.css $DEPLOYPATH
-    - /bin/cp -R img $DEPLOYPATH
+    
